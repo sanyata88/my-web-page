@@ -1,0 +1,75 @@
+.homepage{
+  display:-webkit-flex;
+  display:flex;
+  background: linear-gradient(to right, rgba(230,0,0,0), rgba(230,0,0,1));
+  font-family: fantasy;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 100px;
+}
+.icon{
+  float: left;
+  padding: 20px 20px 20px 20px;
+  height: 200px;
+  border-radius: 40px;
+}
+.logo{
+  float: left;
+  padding: 0px 10px 10px 0px;
+  height: 150px;
+  border-radius: 40px;
+}
+.dog{
+  height: 50px;
+  width: 50px;
+}
+.stupid{
+  float: left;
+  padding: 0px 10px 10px 0px;
+  height: 150px;
+  border-radius: 40px;
+}
+.house{
+  float: left;
+  padding: 10px 10px 10px 10px;
+  height: 150px;
+  border-radius: 40px;
+}
+body {
+	padding: 20px 10px;
+	font-family: fantasy;
+	max-width: 2000px;
+	margin: 0 auto;
+	font-size: 1.4em;
+  background: linear-gradient(to right, rgba(0,0,212,0), rgba(0,0,212,1));
+}
+h1 {
+	text-align: center;
+	color: black;
+}
+.Concept{
+  background-color: #D3DCDE;
+  color: black;
+	border-radius: 20px;
+	color: black;
+	padding: 40px;
+	margin: 20px auto;
+}
+h2 {
+  color:#294860;
+}
+li {
+	font-size: 20px;
+	line-height: 44px;
+}
+.button {
+    background-color: #D3DCDE;
+    border: 2px solid blue;
+    display: inline-block;
+    padding: 10px 10px;
+    text-align: center;
+    font-size: 24px;
+    font-family: fantasy;
+    border-radius: 20px;
+    width: 150px;
+}
